@@ -769,6 +769,7 @@ body {
 }
 
 .modal-form-textarea {
+  display: block;
   height: 120px;
   resize: none;
   padding: 8px 16px;
